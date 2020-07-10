@@ -27,6 +27,7 @@ figcaption {
 img {
   display: inline-block;
   text-align: center;
+  width: 900px;
   height: auto;
 }
 
