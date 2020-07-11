@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+figure:first-child {
+  margin: auto;
+  width: 50%;
+}
+
+nav {
+  text-align: center;
+}
+
+a nav {
+  padding: 10px;
+}
+
+figure:last-child  {
+  font-size: 12px;
+}
+
+#featured-property p {
+width: 800px;
+text-align: center;
+}
+
+#details {
+display: flex;
+}
