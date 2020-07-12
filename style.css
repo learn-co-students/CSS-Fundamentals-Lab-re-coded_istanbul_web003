@@ -10,3 +10,25 @@ img {
   display: block;
   margin: 0 auto;
 }
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+#featured-property figure figcaption {
+text-align: center;
+font-size: small;}
+#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#details div {
+display: block;
+float: left;
+background-color: red;
+text-align: center;
+width: 25%;
+
+}
