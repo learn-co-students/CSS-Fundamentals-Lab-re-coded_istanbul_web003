@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+  color:red
+}
+
+section#details{
+background-color: red;
+}
+
+
+#featured-property p{
+  text-align: center;
+width:400px;
+}
