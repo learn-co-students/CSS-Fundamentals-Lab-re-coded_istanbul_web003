@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#header {
+  text-align: center;
+}
+
+#nav-bar {
+  text-align: center;
+}
+
+#nav-bar > a {
+  background-color: yellowgreen;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+#featured-property {
+  display: block;
+  text-align: center;
+}
+
+#featured-property > figure > figcaption {
+  font-size: smaller;
+  text-align: center;
+}
+
+#featured-property > figure > img {
+  size: 900px;
+}
+#featured-property > p {
+  width: 800px;
+  display: inline-block;
+  text-align: center;
+}
+
+#details {
+  display: flex;
+  background-color: red;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-end;
+  align-content: space-between;
+}
+
+#details > div {
+  float: left;
+  text-align: center;
+  width: 25%;
+}
